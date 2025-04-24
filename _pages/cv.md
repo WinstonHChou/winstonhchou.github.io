@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: This page provides a comprehensive overview of my academic background, professional experience, and key competencies. Continue scrolling to explore detailed insights into my educational journey, notable projects, and significant accomplishments.
 toc:
   sidebar: left
 ---

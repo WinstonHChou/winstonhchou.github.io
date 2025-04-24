@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - WinstonHChou
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Triton-AI/robocar
+  - WinstonHChou/ECE276A-PR3-Visual-Inertial-SLAM
+  - WinstonHChou/MAE204-Final-Project-YouBot
