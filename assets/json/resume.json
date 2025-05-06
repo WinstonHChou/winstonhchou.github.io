@@ -20,15 +20,20 @@
   // ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of California, San Diego",
+      "location": "San Diego, United States",
+      "url": "https://ucsd.edu/",
+      "area": "BS in Mechanical & Aerospace Engineering, Specialized in Controls & Robotics | GPA: 3.99/4.0",
+      "studyType": "Bachelor of Science",
+      "startDate": "2022-09-19",
+      "endDate": "present",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [
+        "<strong>Robotics</strong>: Introduction to Autonomous Vehicles, Robotics (Graduate), Sensing and Estimation in Robotics (Graduate), Machine Learning for Robotics (Graduate)",
+        "<strong>Control</strong>: Linear Control, Signals and Systems",
+        "<strong>AI/ML</strong>: Machine Learning for Robotics (Graduate), Probability and Statistical Methods for Engineering, Computational Methods in Engineering",
+        "<strong>Mechanical</strong>: Design of Machine Elements, Computational Methods for Design, Solid Mechanics I, Mechanical Behavior of Materials"
+      ]
     }
   ],
   "skills": [
