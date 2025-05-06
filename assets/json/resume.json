@@ -74,14 +74,74 @@
   ],
   "experience": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "UC San Diego, ECE & MAE Department",
+      "location": "San Diego, CA",
+      "position": "Teaching Assistant, ECEMAE 148 Introduction to Autonomous Vehicles",
+      "url": "https://ece.ucsd.edu/",
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "summary": "Facilitate discussion sections, coach students on projects and assignments, and hold weekly office hours for ECEMAE 148. Support student learning in robotics system integration, computer vision, navigation algorithms, computational strategies, machine learning systems, and vehicle dynamics.",
+      "highlights": [
+        "Guide students in robotics system integration, computer vision, navigation algorithms, and machine learning.",
+        "Coach on programming assignments and project development.",
+        "Hold weekly office hours to support student learning."
+      ]
+    },
+    {
+      "organization": "Flytech Technology Ltd.",
+      "location": "Taipei City, Taiwan",
+      "position": "Summer Intern",
+      "url": "https://www.flytech.com.tw/",
+      "startDate": "2024-06-01",
+      "endDate": "2024-07-31",
+      "summary": "Developed features for the Autonomous Mobile Robot (AMR) product line and improved odometry accuracy through sensor integration and control algorithm implementation.",
+      "highlights": [
+        "Integrated AMR position and velocity data into ROS, enabling remote PID tuning.",
+        "Designed encoder accuracy experiments, identified and reduced wheel sensor errors, and improved odometry by 0.49%.",
+        "Implemented Ramsete Controller to support odometry testing and planner development."
+      ]
+    },
+    {
+      "organization": "AI Racing Tech",
+      "location": "San Diego, CA",
+      "position": "Simulation Team - dSPACE Simulation Developer",
+      "url": "https://www.airacingtech.com/",
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "summary": "Contribute to the Indy Autonomous Challenge, focusing on autonomous vehicle simulation and performance optimization using dSPACE systems.",
+      "highlights": [
+        "Develop and manage simulation interfaces for real-time testing of autonomous driving algorithms.",
+        "Integrate MATLAB/Simulink models with dSPACE hardware-in-the-loop (HIL) simulators.",
+        "Collaborate with cross-functional teams to optimize simulation workflows."
+      ]
+    },
+    {
+      "organization": "Triton AI, UC San Diego",
+      "location": "San Diego, CA",
+      "position": "GoKart Software Team Lead / F1TENTH Racer Team Lead",
+      "url": "https://tritonai.ucsd.edu/",
+      "startDate": "2024-05-01",
+      "endDate": null,
+      "summary": "Lead software development and autonomous racing for full-scale electric go-kart and F1TENTH teams, participating in international competitions.",
+      "highlights": [
+        "Managed a team of 20+ engineers developing sensor fusion, trajectory planning, and motion control algorithms.",
+        "Oversaw participation in the Autonomous Karting Series and F1TENTH Autonomous Grand Prix.",
+        "Led teams in competitions organized by IEEE IV, ICRA, and IROS."
+      ]
+    },
+    {
+      "organization": "FRC#8020 CyberpunK, C.K. Robotics",
+      "location": "Taipei City, Taiwan",
+      "position": "Mentor",
+      "url": "https://www.ckrobotics.org/",
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "summary": "Mentor for FIRST Robotics Competition team, guiding students in advanced control theory, robot design, and competition strategy.",
+      "highlights": [
+        "Mentored 40+ students in robotics system development, control algorithms, and fabrication techniques.",
+        "Guided implementation of Kalman filter algorithms and FEA-based design verification.",
+        "Introduced advanced failure prediction and design methodologies for competition robots."
+      ]
     }
   ],
   "projects": [
