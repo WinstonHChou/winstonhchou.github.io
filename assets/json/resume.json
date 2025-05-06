@@ -38,16 +38,37 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Software & Embedded",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-microchip",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "<strong>Programming Languages:<strong></strong>",
+        "Python, C++, C, LabVIEW, MATLAB, Java, HTML",
+        "<strong>Tools</strong>:",
+        "ROS, ROS2 (Robot Operating System), Git, Docker, Keras, Tensorflow"
+      ]
+    },
+    {
+      "name": "Mechanical",
+      "level": "Advanced",
+      "icon": "fa-solid fa-cogs",
+      "keywords": [
+        "<strong>Tools</strong>:",
+        "Fusion 360, SolidWorks",
+        "<strong>Skills:</strong>",
+        "Machinery, CNC, SolidWorks CAM, FEA"
+      ]
+    },
+    {
+      "name": "Expertise",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "System Engineering",
+        "Machine Learning",
+        "Embedded Systems",
+        "Sensor Fusion",
+        "Control Systems"
       ]
     }
   ],
