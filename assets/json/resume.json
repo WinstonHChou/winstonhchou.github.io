@@ -173,11 +173,39 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "CKHSAASC Golden Brick Leadership Scholarship Award",
+      "date": "2025-10-25",
+      "awarder": "Chien Kuo High School Alumni Association of Southern California",
+      "url": "/assets/pdf/CK_awards_2022_2024.pdf",
+      "summary": "Recognize the outstanding achievements of Chien Kuo High School Alumni Association of Southern California (CKHSAASC) student members or the descendants of CKHSAASC members as defined by CKHSAASC Bylaws."
+    },
+    {
+      "title": "CCBA Southern California Outstanding Youth Achievement Award",
+      "date": "2025-03-30",
+      "awarder": "Chinese Consolidated Benevolent Association",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "The Chinese Consolidated Benevolent Association of Southern California's Outstanding Youth Achievement Awards and Model Youth Conference is an annual event hosted by the Chinese Consolidated Benevolent Association (CCBA) of Southern California. It aims to recognize the outstanding achievements of young Chinese Americans and encourage them to actively participate in society and demonstrate leadership. The awards cover a variety of areas, including academic performance, community service, arts and culture, athletics, and innovation, aiming to identify and recognize outstanding young people who have demonstrated outstanding professional and societal contributions."
+    },
+    {
+      "title": "CKHSAASC Golden Brick Leadership Scholarship Award",
+      "date": "2024-10-26",
+      "awarder": "Chien Kuo High School Alumni Association of Southern California",
+      "url": "/assets/pdf/CK_awards_2022_2024.pdf",
+      "summary": "Recognize the outstanding achievements of Chien Kuo High School Alumni Association of Southern California (CKHSAASC) student members or the descendants of CKHSAASC members as defined by CKHSAASC Bylaws."
+    },
+    {
+      "title": "Distinguished Service Award",
+      "date": "2022-06-01",
+      "awarder": "Taipei Municipal Chien Kuo High School",
+      "url": "/assets/pdf/CK_awards_2022_2024.pdf",
+      "summary": "Serve as Class leader for three consecutive years (10th, 11th, and 12th grades) and actively participate in various school activities, demonstrating leadership and commitment to the school community."
+    },
+    {
+      "title": "Outstanding Performance Mayor Award",
+      "date": "2022-06-07",
+      "awarder": "Taipei City Government",
+      "url": "/assets/pdf/CK_awards_2022_2024.pdf",
+      "summary": "Category II Mayor Award (Outstanding Performance Mayor Award): Graduates who have outstanding performance during their studies, such as in sports, skills, arts, science or creativity, club activities, community or school service learning, respect for teachers and parents, acts of helping others, and other specific achievements."
     }
   ],
   // "certificates": [
