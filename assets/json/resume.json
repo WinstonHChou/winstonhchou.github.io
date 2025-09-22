@@ -88,11 +88,26 @@
       ]
     },
     {
+      "organization": "Taiwan Space Agency (TASA)",
+      "location": "Tainan City, Taiwan",
+      "position": "Space Transportation Avionics Intern",
+      "url": "https://www.tasa.org.tw/en-US",
+      "startDate": "2025-07-01",
+      "endDate": "2025-08-31",
+      "summary": "Contributed to advancing the TAI-namics Software Stack with a primary focus on progressing from Model-in-Loop (MIL) testing toward Hardware-in-Loop (HIL) implementation. My work encompassed software integration, interface optimization, and research into advanced propellant sloshing dynamics modeling.",
+      "highlights": [
+        "Optimized spacecraft simulation software performance by 98% through MATLAB-C++ interface redesign.",
+        "Developed Coefficient Proxy system for seamless data extraction and configuration management.",
+        "Migrated 5 critical spacecraft models to MATLAB with validation testing for TAI-namics software stack.",
+        "Researched and modeled 3D propellant sloshing dynamics using SE(3) screw theory and Lagrangian mechanics, achieving superior accuracy compared to linear models w.r.t. CFD validation."
+      ]
+    },
+    {
       "organization": "Flytech Technology Ltd.",
       "location": "Taipei City, Taiwan",
-      "position": "Summer Intern",
+      "position": "Intern",
       "url": "https://www.flytech.com.tw/",
-      "startDate": "2024-06-01",
+      "startDate": "2024-06-30",
       "endDate": "2024-07-31",
       "summary": "Developed features for the Autonomous Mobile Robot (AMR) product line and improved odometry accuracy through sensor integration and control algorithm implementation.",
       "highlights": [
@@ -104,7 +119,7 @@
     {
       "organization": "AI Racing Tech",
       "location": "San Diego, CA",
-      "position": "Simulation Team - dSPACE Simulation Developer",
+      "position": "Simulation Team - Control & Simulation Engineer",
       "url": "https://www.airacingtech.com/",
       "startDate": "2024-09-01",
       "endDate": null,
