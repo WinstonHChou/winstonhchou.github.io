@@ -80,7 +80,7 @@
       "url": "https://ece.ucsd.edu/",
       "startDate": "2024-09-01",
       "endDate": null,
-      "summary": "Facilitate discussion sections, coach students on projects and assignments, and hold weekly office hours for ECEMAE 148. Support student learning in robotics system integration, computer vision, navigation algorithms, computational strategies, machine learning systems, and vehicle dynamics.",
+      "summary": "Support student learning in robotics system integration, computer vision, navigation algorithms, computational strategies, machine learning systems, and vehicle dynamics.",
       "highlights": [
         "Guide students in robotics system integration, computer vision, navigation algorithms, and machine learning.",
         "Coach on programming assignments and project development.",
@@ -94,7 +94,7 @@
       "url": "https://www.tasa.org.tw/en-US",
       "startDate": "2025-07-01",
       "endDate": "2025-08-31",
-      "summary": "Contributed to advancing the TAI-namics Software Stack with a primary focus on progressing from Model-in-Loop (MIL) testing toward Hardware-in-Loop (HIL) implementation. My work encompassed software integration, interface optimization, and research into advanced propellant sloshing dynamics modeling.",
+      "summary": "Contributed to advancing the TAI-namics Software Stack with a primary focus on progressing from Model-in-Loop (MIL) testing toward Hardware-in-Loop (HIL) implementation.",
       "highlights": [
         "Optimized spacecraft simulation software performance by 98% through MATLAB-C++ interface redesign.",
         "Developed Coefficient Proxy system for seamless data extraction and configuration management.",
