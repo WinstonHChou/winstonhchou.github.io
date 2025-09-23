@@ -7,6 +7,7 @@ redirect: https://unsplash.com
 importance: 3
 category: work
 selected: true
+hide_project: true
 ---
 
 Every project has a beautiful feature showcase page.
