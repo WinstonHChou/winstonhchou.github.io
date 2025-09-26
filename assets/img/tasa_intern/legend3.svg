@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127.8235mm"
+   height="2.264668mm"
+   viewBox="0 0 127.8235 2.264668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="legend3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.1108586"
+     inkscape:cx="230.00081"
+     inkscape:cy="-10.768731"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.644951,-162.16663)">
+    <g
+       id="g31876"
+       transform="matrix(0.35277777,0,0,-0.35277777,-250.56223,385.81988)">
+      <g
+         transform="matrix(0.75000002,0,0,-0.75000002,1083.6314,630.33377)"
+         style="font-style:normal;font-weight:normal;font-size:9.6px;font-family:SansSerif;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16353-4">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="3"
+           style="stroke:none"
+           id="text16351-8">Peaks</text>
+      </g>
+      <g
+         transform="matrix(0.75000002,0,0,-0.75000002,1076.8814,630.33377)"
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0453996;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16357-8">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0453996;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 0,-1.6667 c 0.9205,0 1.6667,0.7462 1.6667,1.6667 V 0 C 1.6667,0.9205 0.9205,1.6667 0,1.6667 -0.9205,1.6667 -1.6667,0.9205 -1.6667,0 c 0,-0.9205 0.7462,-1.6667 1.6667,-1.6667 z m 0,-0.6666 c -1.2887,0 -2.3333,1.0446 -2.3333,2.3333 0,1.2887 1.0446,2.3333 2.3333,2.3333 C 1.2887,2.3333 2.3333,1.2887 2.3333,0 V 0 C 2.3333,-1.2887 1.2887,-2.3333 0,-2.3333 Z"
+           id="path16355-89" />
+      </g>
+    </g>
+    <g
+       id="g31870"
+       transform="matrix(0.35277777,0,0,-0.35277777,-289.17862,385.54581)">
+      <g
+         transform="matrix(0.75000002,0,0,-0.75000002,1240.0741,629.62016)"
+         style="font-style:normal;font-weight:normal;font-size:9.6px;font-family:SansSerif;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16361-7">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="3"
+           style="stroke:none"
+           id="text16359-7">Craters</text>
+      </g>
+      <g
+         transform="matrix(0.75000002,0,0,-0.75000002,1233.3241,629.62016)"
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:linearRGB;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.667366;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16365-6">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.667366;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1.4142,-1.4142 2.8284,2.8284 m -2.8284,0 2.8284,-2.8284"
+           id="path16363-4" />
+      </g>
+    </g>
+    <g
+       id="g31894"
+       transform="matrix(0.35277777,0,0,-0.35277777,-297.63726,387.31247)">
+      <g
+         transform="matrix(0.75000002,0,0,-0.75000002,959.97912,634.62802)"
+         style="font-style:normal;font-weight:normal;font-size:9.6px;font-family:SansSerif;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16853-3">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="3"
+           style="stroke:none"
+           id="text16851-0">CFD</text>
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:linearRGB;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16857-3"
+         transform="matrix(0.75000002,0,0,-0.75000002,842.97912,849.87803)">
+        <line
+           y2="287"
+           style="fill:none"
+           x1="113"
+           x2="153"
+           y1="287"
+           id="line16855-09" />
+      </g>
+    </g>
+    <g
+       id="g31888"
+       transform="matrix(0.35277777,0,0,-0.35277777,-275.69164,384.0275)">
+      <g
+         transform="matrix(0.75000002,0,0,-0.75000002,959.97912,625.25302)"
+         style="font-style:normal;font-weight:normal;font-size:9.6px;font-family:SansSerif;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16861-2">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="3"
+           style="stroke:none"
+           id="text16859-5">2nd-Order Linear ODE</text>
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:linearRGB;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16865-4"
+         transform="matrix(0.75000002,0,0,-0.75000002,842.97912,849.87803)">
+        <line
+           y2="299.5"
+           style="fill:none"
+           x1="113"
+           x2="153"
+           y1="299.5"
+           id="line16863-0" />
+      </g>
+    </g>
+    <g
+       id="g31882"
+       transform="matrix(0.35277777,0,0,-0.35277777,-232.14657,380.57076)">
+      <g
+         transform="matrix(0.75000002,0,0,-0.75000002,959.97912,615.87802)"
+         style="font-style:normal;font-weight:normal;font-size:9.6px;font-family:SansSerif;color-interpolation:linearRGB;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16869-59">
+        <text
+           x="0"
+           xml:space="preserve"
+           y="3"
+           style="stroke:none"
+           id="text16867-4">SE(3)-based</text>
+      </g>
+      <g
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:linearRGB;fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:1.6;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="g16873-6"
+         transform="matrix(0.75000002,0,0,-0.75000002,842.97912,849.87803)">
+        <line
+           y2="312"
+           style="fill:none"
+           x1="113"
+           x2="153"
+           y1="312"
+           id="line16871-9" />
+      </g>
+    </g>
+  </g>
+</svg>
