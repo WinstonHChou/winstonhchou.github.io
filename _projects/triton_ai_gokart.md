@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Gokart
+title: GoKart
 description: to be updated
-img: assets/img/triton_ai/robocar/6.jpg
+img: assets/img/triton_ai/gokart/gokart-1.jpg
+redirect: https://tritonai.org/teams/gokart
 importance: 1
 category: fun
 ---
