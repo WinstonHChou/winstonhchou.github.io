@@ -9,7 +9,7 @@ selected: true
 ---
 
 ## Overview
-Joining the founding team of C.K. Robotics as part of FRC#8020 CyberpunK was not just a project— it was the spark that ignited my passion for robotics and engineering. From the beginning, we faced enormous challenges: limited resources, tight deadlines, and the steep learning curves that come with building competition-grade robots from scratch. As Team Captain and Technical Lead, I didn't just oversee tasks—I built a community of driven individuals, fostering a culture of creativity and resilience under pressure.
+FRC#8020 CyberpunK, C.K. Robotics, was not just an extracurricular— it was the spark that ignited my passion for robotics and engineering. From the beginning, we faced enormous challenges: limited resources, tight deadlines, and the steep learning curves that come with building competition-grade robots from scratch. As Team Captain and Technical Lead, I didn't just oversee tasks—I built a community of driven individuals, fostering a culture of creativity and resilience under pressure.
 
 Every late night spent troubleshooting wiring, tuning control algorithms, or iterating mechanical designs taught me more than technical skills. It taught me leadership—how to inspire a team, how to embrace failure as a step toward success, and how innovation thrives in collaboration. Winning the Rookie Game Changer Award was a proud milestone, but more impactful was the collective journey of transforming ideas into working robots that competed on a global stage.
 
