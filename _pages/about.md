@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 projects_horizontal_enabled: false
 ---
 
-Hi, I'm Winston—a robotics enthusiast and an aspiring applied scientist currently studying at UC San Diego. I dive into engineering, physics, and management studies to push the boundaries of robotics, artificial intelligence, and applied sciences. 
+Hi, I'm Winston—a robotics undergraduate researcher at UC San Diego working on learning-enabled autonomy for robots operating in complex, uncertain environments. I dive into engineering, physics, and management studies to push the boundaries of robotics, artificial intelligence, and applied sciences. 
 
-I also work as a teaching assistant for ECE/MAE 148: Introduction to Autonomous Vehicles, alongside Dr. [Jack Silberman](https://linkedin.com/in/jacksilberman). Outside of research and teaching, I'm passionate about promoting STEM education through outreach programs that inspire future innovators.
+I'm advised by Prof. [Nikolay Atanasov](https://natanaso.github.io/) in the Existential Robotics Laboratory, where I work on quadrotor mapping and autonomous navigation. I’ve also served as a teaching assistant for ECE/MAE 148: Introduction to Autonomous Vehicles with Dr. [Jack Silberman](https://linkedin.com/in/jacksilberman). Outside of research and teaching, I'm passionate about promoting STEM education through outreach programs that inspire future innovators.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

@@ -18,6 +18,14 @@ build-docker:
 session:
 	docker compose up
 
+.PHONY: stop
+stop:
+	docker compose down --remove-orphans
+
+.PHONY: status
+status:
+	docker ps --format "table {{.Names}}\t{{.Ports}}"
+
 .PHONY: join-session
 join-session:
 	@CONT_NAME="${CONT_NAME}"

@@ -5,7 +5,7 @@
     "image": "https://github.com/WinstonHChou/winstonhchou.github.io/assets/img/winston_profile_pic.jpeg",
     "email": "winston.ckhs@gmail.com",
     "url": "https://winstonhchou.github.io/",
-    "summary": "Aspiring applied Scientist and Roboticist focus on Engineering, Physics, and Management Studies. Currently studying at the University of California, San Diego. Passionate about advancing research in robotics, artificial intelligence, and applied sciences. Committed to promoting STEM education through various outreach programs and initiatives."
+    "summary": "Aspiring applied scientist and roboticist with a strong foundation in engineering, physics, and management. Currently pursuing a B.S. in Mechanical Engineering (Controls & Robotics) at UC San Diego. Passionate about advancing robotics, artificial intelligence, and STEM education through research and outreach."
   },
   // "work": [
   //   {
@@ -29,9 +29,9 @@
       "endDate": "present",
       "score": "10",
       "courses": [
-        "<strong>Robotics</strong>: Introduction to Autonomous Vehicles, Robotics (Graduate), Sensing and Estimation in Robotics (Graduate), Machine Learning for Robotics (Graduate)",
+        "<strong>Robotics</strong>: Sensing and Estimation in Robotics (Graduate), Machine Learning for Robotics (Graduate, audited), Robotics (Graduate), Introduction to Autonomous Vehicles",
         "<strong>Control</strong>: Linear Control, Signals and Systems",
-        "<strong>AI/ML</strong>: Machine Learning for Robotics (Graduate), Probability and Statistical Methods for Engineering, Computational Methods in Engineering",
+        "<strong>AI/ML</strong>: Machine Learning for Robotics (Graduate, audited), Probability and Statistical Methods for Engineering, Computational Methods in Engineering",
         "<strong>Mechanical</strong>: Design of Machine Elements, Computational Methods for Design, Solid Mechanics I, Mechanical Behavior of Materials"
       ]
     }
@@ -42,8 +42,10 @@
       "level": "Master",
       "icon": "fa-solid fa-microchip",
       "keywords": [
-        "<strong>Programming Languages:<strong></strong>",
+        "<strong>Programming:<strong></strong>",
         "Python, C++, C, LabVIEW, MATLAB, Java, HTML",
+        "<strong>Embedded:</strong>",
+        "Arm 32-bit Cortex-M7, PlatformIO, OpenOCD",
         "<strong>Tools</strong>:",
         "ROS, ROS2 (Robot Operating System), Git, Docker, Keras, Tensorflow"
       ]
@@ -79,10 +81,10 @@
       "position": "Teaching Assistant, ECEMAE 148 Introduction to Autonomous Vehicles",
       "url": "https://ece.ucsd.edu/",
       "startDate": "2024-09-01",
-      "endDate": null,
+      "endDate": "2025-12-15",
       "summary": "Support student learning in robotics system integration, computer vision, navigation algorithms, computational strategies, machine learning systems, and vehicle dynamics.",
       "highlights": [
-        "Guide students in robotics system integration, computer vision, navigation algorithms, and machine learning.",
+        "Cover a wide range of topics, including robotics system integration, computer vision, navigation algorithms, computational strategies (on-vehicle vs. off-vehicle), machine learning systems like neural networks, and vehicle dynamics such as steering and locomotion.",
         "Coach on programming assignments and project development.",
         "Hold weekly office hours to support student learning."
       ]
@@ -96,7 +98,7 @@
       "endDate": "2025-08-31",
       "summary": "Contributed to advancing the TAI-namics Software Stack with a primary focus on progressing from Model-in-Loop (MIL) testing toward Hardware-in-Loop (HIL) implementation.",
       "highlights": [
-        "Optimized spacecraft simulation software performance by 98% through MATLAB-C++ interface redesign.",
+        "Improved 98% software performance through optimizing spacecraft simulation MATLAB-C++ interface.",
         "Developed Coefficient Proxy system for seamless data extraction and configuration management.",
         "Migrated 5 critical spacecraft models to MATLAB with validation testing for TAI-namics software stack.",
         "Researched and modeled 3D propellant sloshing dynamics using SE(3) screw theory and Lagrangian mechanics, achieving superior accuracy compared to linear models w.r.t. CFD validation."
@@ -105,29 +107,29 @@
     {
       "organization": "Flytech Technology Ltd.",
       "location": "Taipei City, Taiwan",
-      "position": "Intern",
+      "position": "Motion Control Intern",
       "url": "https://www.flytech.com.tw/",
       "startDate": "2024-06-30",
       "endDate": "2024-07-31",
       "summary": "Developed features for the Autonomous Mobile Robot (AMR) product line and improved odometry accuracy through sensor integration and control algorithm implementation.",
       "highlights": [
         "Integrated AMR position and velocity data into ROS, enabling remote PID tuning.",
-        "Designed encoder accuracy experiments, identified and reduced wheel sensor errors, and improved odometry by 0.49%.",
-        "Implemented Ramsete Controller to support odometry testing and planner development."
+        "Designed encoder accuracy experiments; quantified and corrected left/right wheel sensor errors (0.0039% / 0.00129%), reducing odometry drift to maintain a localization error below 0.49%.",
+        "Developed and tested a Ramsete Controller module to optimize odometry-based trajectory tracking."
       ]
     },
     {
       "organization": "AI Racing Tech",
       "location": "San Diego, CA",
-      "position": "Simulation Team - Control & Simulation Engineer",
+      "position": "Control & Simulation Engineer",
       "url": "https://www.airacingtech.com/",
       "startDate": "2024-09-01",
       "endDate": null,
-      "summary": "Contribute to the Indy Autonomous Challenge, focusing on autonomous vehicle simulation and performance optimization using dSPACE systems.",
+      "summary": "Contributed to the development and integration of full-size Indy car racing control and simulation platforms for the <strong>Indy Autonomous Challenge</strong> (IAC), collaborating with university partners and researchers.",
       "highlights": [
-        "Develop and manage simulation interfaces for real-time testing of autonomous driving algorithms.",
-        "Integrate MATLAB/Simulink models with dSPACE hardware-in-the-loop (HIL) simulators.",
-        "Collaborate with cross-functional teams to optimize simulation workflows."
+        "Participated in the IAC at <strong>CES 2025</strong>, contributing to the team’s <strong>1st place</strong> finish in the passing tier competition.",
+        "Improved 3D adaptation of lap-time spline trajectory optimization and <strong>model predictive control</strong> (MPC) for gas-driven racing car models.",
+        "Led simulation interface development and manage workflows that integrate MATLAB/Simulink models from model-in-the-loop (MIL) to hardware-in-the-loop (HIL) environments."
       ]
     },
     {
@@ -139,9 +141,8 @@
       "endDate": null,
       "summary": "Lead software development and autonomous racing for full-scale electric go-kart and F1TENTH teams, participating in international competitions.",
       "highlights": [
-        "Managed a team of 20+ engineers developing sensor fusion, trajectory planning, and motion control algorithms.",
-        "Oversaw participation in the Autonomous Karting Series and F1TENTH Autonomous Grand Prix.",
-        "Led teams in competitions organized by IEEE IV, ICRA, and IROS."
+        "Achieved 1st place in the <strong>National Grand Prix, 2025 Autonomous Karting Series (AKS)</strong> by leading the development and autonomous racing of a full-scale electric go-kart",
+        "Managed a multi-disciplinary team of 20+ engineers developing sensor fusion, trajectory planning, and motion control algorithms for high-speed autonomous racing."
       ]
     }
   ],
@@ -149,15 +150,15 @@
     {
       "organization": "FRC#8020 CyberpunK, C.K. Robotics",
       "location": "Taipei City, Taiwan",
-      "position": "Mentor",
+      "position": "FIRST Robotics Mentor",
       "url": "https://www.ckrobotics.org/",
       "startDate": "2021-09-01",
       "endDate": null,
       "summary": "Mentor for FIRST Robotics Competition team, guiding students in advanced control theory, robot design, and competition strategy.",
       "highlights": [
-        "Mentored 40+ students in robotics system development, control algorithms, and fabrication techniques.",
-        "Guided implementation of Kalman filter algorithms and FEA-based design verification.",
-        "Introduced advanced failure prediction and design methodologies for competition robots."
+        "Mentor a team of 40+ high school students in advanced robotics, leading the design, control, and fabrication workflows for multiple award-winning robots across consecutive FRC seasons",
+        "Deliver technical instruction spanning model-based control systems, Kalman-filter-based state estimation (sensor fusion with IMU and vision), structural design validation using FEA, mechanical failure prediction via Von Mises and Fatigue theories, factor-of-safety analyses, and hands-on feasibility testing for drivetrain and actuator components.",
+        "Develop and teach curriculum modules, fostering peer learning, leadership, and advanced engineering skills for student-driven competition success."
       ]
     }
   ],
