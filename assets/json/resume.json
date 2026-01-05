@@ -76,8 +76,21 @@
   ],
   "experience": [
     {
+      "organization": "Existential Robotics Laboratory, UC San Diego",
+      "location": "La Jolla, CA",
+      "position": "Undergraduate Researcher, Quadrotor Mapping Team",
+      "url": "https://erl.ucsd.edu/",
+      "startDate": "2025-09-01",
+      "endDate": null,
+      "summary": "Advisor: Prof. Nikolay A. Atanasov",
+      "highlights": [
+        "Contributing to a faculty-led research project advancing real-time aerial mapping and autonomous navigation using quadrotor UAVs.",
+        "Assisting with drone mechanical design and build process for new experiments, collaborating on simulation test setups."
+      ]
+    },
+    {
       "organization": "UC San Diego, ECE & MAE Department",
-      "location": "San Diego, CA",
+      "location": "La Jolla, CA",
       "position": "Teaching Assistant, ECEMAE 148 Introduction to Autonomous Vehicles",
       "url": "https://ece.ucsd.edu/",
       "startDate": "2024-09-01",
@@ -134,7 +147,7 @@
     },
     {
       "organization": "Triton AI, UC San Diego",
-      "location": "San Diego, CA",
+      "location": "La Jolla, CA",
       "position": "GoKart Software Team Lead / F1TENTH Racer Team Lead",
       "url": "https://tritonai.ucsd.edu/",
       "startDate": "2024-05-01",
